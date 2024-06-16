@@ -1,6 +1,5 @@
 # SecureSurf - Phishing Site Checker 🚀
 
-![SecureSurf Logo](https://via.placeholder.com/150)
 
 [![GitHub license](https://img.shields.io/github/license/Tanmay-Tiwaricyber/SecureSurf-webtool)](https://github.com/Tanmay-Tiwaricyber/SecureSurf-webtool/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Tanmay-Tiwaricyber/SecureSurf-webtool)](https://github.com/Tanmay-Tiwaricyber/SecureSurf-webtool/stargazers)
